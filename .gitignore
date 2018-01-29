@@ -1,0 +1,6 @@
+# WordPress configuration files
+web/.htaccess
+web/wp-config.php
+
+# Uploaded files
+web/wp-content/uploads
